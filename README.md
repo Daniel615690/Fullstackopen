@@ -28,21 +28,29 @@ This repo will be structured as follows:
 
 ```
 /fullstackopen/
-│── part1/   # React basics
-│── part2/   # Advanced React patterns
-│── part3/   # Node.js & Express backend
-│── part4/   # Testing & Middleware
-│── part5/   # Frontend State Management
-│── part6/   # Advanced React & Hooks
-│── part7/   # GraphQL & Full Stack Integration
-│── README.md  # This file
+│── part0/   # Fundamentals of Web apps
+│── part1/   # Introduction to React
+│── part2/   # Communicating with server
+│── part3/   # Programming a server with NodeJS and Express
+│── part4/   # Testing Express servers, user administration
+│── part5/   # Testing React apps
+│── part6/   # Advanced state management
+│── part7/   # React router, custom hooks, styling app with CSS and webpack
+│── part8/   # GraphQL
+│── part9/   # TypeScript
+│── part10/  # React Native
+│── part11/  # CI/CD
+│── part12/  # Containers
+│── part13/  # Using relational databases
 ```
 
 ---
 
 ## 📈 Progress
 
-✅ **Part 0:** Introduction & Basics&#x20;
+✅ **Part 0:** Fundamentals of Web apps
+
+⬜ **Part 1:** Introduction to React
 
 *(This section will be updated as I progress.)*
 
@@ -51,3 +59,6 @@ This repo will be structured as follows:
 ## 💡 Why This Matters
 
 I'm taking this course to strengthen my **full-stack development skills** and gain hands-on experience building modern web applications.&#x20;
+
+---
+
